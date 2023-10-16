@@ -39,8 +39,8 @@ https://okkotv-live.cdnvideo.ru/channel/TNT_OTT_HD/1080p.m3u8
 ;http://188.143.128.24:30000/play/a37/index.m3u8 
 #EXTINF:-1 group-title="Новости", Известия 
 https://okkotv-live.cdnvideo.ru/channel/Izvestiya_HD_2/1080p.m3u8 
-;#EXTINF:-1 group-title="Прочие", Мосфильм. Золотая коллекция 
-;http://109.200.135.130:8080/mosfilm/index.m3u8
+#EXTINF:-1 group-title="Прочие", Мосфильм. Золотая коллекция 
+http://109.200.135.130:8080/mosfilm/index.m3u8
 ;#EXTINF:-1 group-title="Кинокомедии", Кинокомедия HD
 ;http://109.200.135.130:8080/komediya/index.m3u8
 ;#EXTINF:-1 group-title="Фантастика", FAN HD
@@ -54,11 +54,11 @@ http://stream.backustv.ru/live/btv2/index.m3u8
 #EXTINF:-1 group-title="Страшное кино", Остросюжетное HD 
 http://213.172.73.133:8081/nimble_live/9009_Остросюжетное_HD/playlist.m3u8
 #EXTINF:-1 group-title="Страшное кино", НСТ 
-http://109.200.135.130:8080/nstv/index.m3u8 
+https://ucdn.beetv.kz/btv/live/hls/000000078.m3u8
 #EXTINF:-1 group-title="Страшное кино", Шокирующее HD
 http://195.161.68.11:8006/playlist.m3u8
-#EXTINF:-1 group-title="Мультсериалы", Мульт HD
-http://31.134.132.245:8080/thlum_hd/index.m3u8
+;#EXTINF:-1 group-title="Мультсериалы", Мульт HD
+;http://31.134.132.245:8080/thlum_hd/index.m3u8
 #EXTINF:-1 group-title="Мультсериалы", Мультиландия HD
 https://okkotv-live.cdnvideo.ru/channel/Multilandia_HD/1080p.m3u8
 #EXTINF:-1 group-title="Семейные мультфильмы", В гостях у сказки
