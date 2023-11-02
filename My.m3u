@@ -47,14 +47,18 @@ http://moobl.ru/hls/Mosfilm_hd.m3u8
 ;http://109.200.135.130:8080/fan/index.m3u8
 #EXTINF:-1 group-title="Страшное кино", Киноужас HD
 http://109.197.192.121:8080/kinouzhas/index.m3u8
+#EXTINF:-1 tvg-id="scream" group-title="Страшное кино",Scream
+http://158.101.214.187:8080/channel/n64296347/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/15786/logo_256_1670420636.jpg" group-title="Страшное кино",Horror TV
+http://cdn-lb.iptv2022.com/p/JO51zkFM_kuwr_Rlt-mHfQ,1696194010/streaming/horror_tv/324/1/index.m3u8
 #EXTINF:-1 group-title="Страшное кино" tvg-id="trashtv", Trash HD 
 https://livetv.mylifeisgood.net.ru/channels/trash.m3u8
 #EXTINF:-1 tvg-id="backustv-horror" tvg-group="Страшное кино", BackusTV Dark HD 
 http://stream.backustv.ru/live/btv2/index.m3u8
 #EXTINF:-1 group-title="Страшное кино", Остросюжетное HD 
 http://213.172.73.133:8081/nimble_live/9009_Остросюжетное_HD/playlist.m3u8
-#EXTINF:-1 group-title="Страшное кино", НСТ 
-https://ucdn.beetv.kz/btv/live/hls/000000078.m3u8
+#EXTINF:-1 tvg-id="nst" group-title="Страшное кино",НСТ
+http://moobl.ru/hls/NST.m3u8
 #EXTINF:-1 group-title="Страшное кино", Шокирующее HD
 http://195.161.68.11:8006/playlist.m3u8
 ;#EXTINF:-1 group-title="Мультсериалы", Мульт HD
